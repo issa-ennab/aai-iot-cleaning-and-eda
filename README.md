@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Linear Regression for IoT
 
 Although linear regression is not as flashy as neural network based ML applications, it can often still do a decent job of creating simple predictions for streaming data. Linear regression also has the major benefit for IoT applications of being very lightweight and quick to run--this means that a linear regression based model could potentially be run on the edge network and have lower latency for sending signals to local devices. In this assignment you will use the electricity consumption dataset from Module 1 to predict global active power based on simulated streaming data. You will explore different parameters and model inputs and analyze the effect that they have on the model performance.
@@ -18,3 +19,6 @@ Assignment Materials:
 Deliverables:
 * When you have finished your code, print your notebook as a PDF and upload it to Blackboard. 
 * Commit your code and push the changes to GitHub so your instructor has access to the ipynb notebook files and any other code you create.
+=======
+# aai-iot-cleaning-and-eda
+>>>>>>> 7ca25874a4997c92e9b38cc8ff82b93ef9957465
